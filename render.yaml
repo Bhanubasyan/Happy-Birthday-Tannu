@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: happy-birthday-tannu
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
